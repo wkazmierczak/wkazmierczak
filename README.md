@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### About me:
+- 🌱I'm studing Computer Science at the Faculty of Computer Science, Electronics and Telecomunication 
+at the AGH University of Science and Technology in Cracow (first year).
+- ⚡I like programming, dealing with complex problems and having fun while learning and working.
+- ⏳In my free time I like to swim🏊, ride a bike🚴🏼, discuss with my friends🗣️, but also watch movies🎥 and listen to music🎶.
+
+
+
 <!--
 **wkazmierczak/wkazmierczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
