@@ -5,6 +5,8 @@
 - ⚡I like programming, dealing with complex problems and having fun while learning and working.
 - ⏳In my free time I like to swim🏊, ride a bike🚴🏼, discuss with my friends🗣️, but also watch movies🎥 and listen to music🎶.
 
+Here is the link to my account on LeetCode:
+https://leetcode.com/wkazmierczak/
 
 
 <!--
