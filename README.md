@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me:
-- 🌱I'm studing Computer Science at the Faculty of Computer Science at the AGH University of Science and Technology in Cracow (second year).
+- 🌱I'm studying Computer Science at the Faculty of Computer Science at the AGH University of Science and Technology in Cracow (second year).
 - ⚡I like programming, dealing with complex problems and having fun while learning and working.
 - ⏳In my free time I like to swim🏊, ride a bike🚴🏼, discuss with my friends🗣️, but also watch movies🎥 and listen to music🎶.
 
