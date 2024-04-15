@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Winner of the SWM Hackathon 2024 with project Krakoskie-Obwarzanki(webapp to track current locations of pretzel shops)
+## Winner of the SWM Hackathon 2024 with project Krakoskie-Obwarzanki(webapp to track current locations of pretzel shops)
