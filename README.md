@@ -3,7 +3,7 @@
 ### About me:
 - 🌱I'm studying Computer Science at the Faculty of Computer Science at the AGH University of Science and Technology in Cracow (second year).
 - ⚡I like programming, dealing with complex problems and having fun while learning and working.
-- ⏳In my free time I like to swim🏊, ride a bike🚴🏼, discuss with my friends🗣️, but also watch movies🎥 and listen to music🎶.
+- ⏳In my free time I like to swim🏊, juggle:baseball:, ride a bike🚴🏼, discuss with my friends🗣️, but also watch movies🎥 and listen to music🎶.
 
 Here is the link to my account on LeetCode:
 https://leetcode.com/wkazmierczak/
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Winner of the SWM Hackathon 2024 with project Krakoskie-Obwarzanki(webapp to track current locations of pretzel shops)
+### Winner of the SWM Hackathon 2024 with project Krakoskie-Obwarzanki (webapp to track current locations of pretzel shops)
