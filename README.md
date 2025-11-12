@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### About me
-- I'm studying Computer Science at the Faculty of Computer Science at the AGH University of Science and Technology in Cracow (fourth year).
+I'm Computer Science student at the Faculty of Computer Science at the AGH University of Science and Technology in Cracow (fourth year).
 
 Here is the link to my account on LeetCode:
 https://leetcode.com/wkazmierczak/
